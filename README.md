@@ -10,6 +10,6 @@
           Digital Agency to a Tech Lead in a SASS startup.</p>
  <br/>
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brossdev&layout=compact&theme=nightowl" width="400" />
+
 </p>
 
